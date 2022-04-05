@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *MERN*
 
-- 📫 How to reach me *waghmodeshru@gmail.com*
+- 📫 How to reach me *sayligiri555@gmail.com*
 
 - ⚡ Fun fact *I am Funny*
 
