@@ -2,9 +2,9 @@
 <h3 align="center">An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.</h3>
 <img align="right" alt="Codeing" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti28210&label=Profile%20views&color=0e75b6&style=flat" alt="shruti28210" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayli555&label=Profile%20views&color=0e75b6&style=flat" alt="shruti28210" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shrutiwaghmode2" target="blank"><img src="https://img.shields.io/twitter/follow/shrutiwaghmode2?logo=twitter&style=for-the-badge" alt="shrutiwaghmode2" /></a> </p>
+
 
 - 🌱 I’m currently learning *React Native*
 
@@ -16,6 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+  <a href="https://www.linkedin.com/in/sahil-shekh-8a0470230/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="sahil-shekh-8a0470230" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://twitter.com/shrutiwaghmode2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrutiwaghmode2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shruti-waghmode-290114139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shruti-waghmode-290114139/" height="30" width="40" /></a>
 </p>
