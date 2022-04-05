@@ -20,7 +20,9 @@
   <a href="https://www.linkedin.com/in/sahil-shekh-8a0470230/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="sahil-shekh-8a0470230" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  
+  <a href="https://fb.com/sahil.shekh.583" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="sahil.shekh.583"  width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 </p>
 
