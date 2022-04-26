@@ -1,5 +1,5 @@
 <h1 align="center">Hi 
-  <img align="right" alt="Codeing" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
+  <img align="right" alt="Codeing" width="50px" height="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
   , I'm Sayli</h1>
 <h3 align="center">An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.</h3>
 <img align="right" alt="Codeing" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
