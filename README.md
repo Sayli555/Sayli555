@@ -73,7 +73,7 @@
   <br>
 
 <h1 align="left">My GitHub Status:</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayli555&show_icons=true&locale=en&layout=compact" alt="sayli555" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayli555&show_icons=true&locale=en&layout=compact" alt="sayli555" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayli555&show_icons=true&locale=en" alt="sayli555" /></p>
