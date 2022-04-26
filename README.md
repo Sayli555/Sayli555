@@ -1,9 +1,9 @@
 <h1 align="center" width="50px" height="50px">Hi <img align="center" alt="Codeing" width="40px" height="40px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Sayli</h1>
  
 <h3 align="center">An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.</h3>
-<img align="right" alt="Codeing" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
+<img align="right" margin-top="50px" alt="Codeing" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayli555&label=Profile%20views&color=0e75b6&style=flat" alt="shruti28210" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayli555&label=Profile%20views&color=0e75b6&style=flat" alt="shruti28210" /> </p> -->
 
 
 <h1>About Me</h1>
