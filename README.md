@@ -80,5 +80,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayli555&" alt="sayli555" /></p>
 
-<h1><img src="	https://raw.githubusercontent.com/Trilokia/Triloki…c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="sayli" />/h1>
+<h1><img src="https://raw.githubusercontent.com/Trilokia/Triloki…c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="sayli" />/h1>
 
