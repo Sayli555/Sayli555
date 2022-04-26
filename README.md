@@ -3,11 +3,15 @@
 <h3 align="center">An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.</h3>
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayli555&label=Profile%20views&color=0e75b6&style=flat" alt="shruti28210" /> </p> -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayli555&label=Profile%20views&color=0e75b6&style=flat" alt="shruti28210" /> </p> 
 
 
 <h1>About Me</h1>
-<img align="right" margin-top="50px" alt="Codeing" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
+<img align="right" margin-top="50px" alt="Codeing" width="400" margin-bottom: "100px"; src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
+
+
+- 🔭 I’m currently working on HTML, CSS, JavaScript, MongoDB and Express.js
+
 - 🌱 I’m currently learning *React Native*
 
 - 💬 Ask me about *MERN*
@@ -16,7 +20,10 @@
 
 - ⚡ Fun fact *I am Funny*
 
-<h3 align="left">Connect with me:</h3>
+
+
+
+<h1 align="left" margin-top: "100px";>Connect with me:</h1>
 <p align="left">
   
   <a href="https://www.linkedin.com/in/sayli-giri/" target="blank"><img align="center"
