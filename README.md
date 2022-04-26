@@ -1,4 +1,4 @@
-<span align="center">Hi <img align="right" alt="Codeing" width="20px" height="20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></span>
+<span align="center">Hi <img align="center" alt="Codeing" width="20px" height="20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></span>
 
   
   
