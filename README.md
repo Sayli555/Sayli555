@@ -23,7 +23,7 @@
 
 
 
-<h1 align="left" margin-top: "100px";>Connect with me:</h1>
+<h1 align="left" margin-top: "200px";>Connect with me:</h1>
 <p align="left">
   
   <a href="https://www.linkedin.com/in/sayli-giri/" target="blank"><img align="center"
