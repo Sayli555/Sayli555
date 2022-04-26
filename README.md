@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.</h3>
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayli555&label=Profile%20views&color=0e75b6&style=flat" alt="shruti28210" /> </p> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayli555&label=Profile%20views&color=0e75b6&style=flat" alt="sayli555" /> </p> 
 
 
 <h1>About Me</h1>
