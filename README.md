@@ -67,14 +67,8 @@
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a> </p>
   <br>
 
-<h1 align="left">My GitHub Status:</h1>
-<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayli555&" alt="sayli555" /></p>
-<p><img  align="center" src="https://github-readme-stats.vercel.app/api?username=sayli555&show_icons=true&locale=en" alt="sayli555" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayli555&show_icons=true&locale=en&layout=compact" alt="sayli555" nbsp="100px" />
-</p>
 
-
-<h3 align="center">GITHUB STATUS</h3>
+<h3 align="center">MY GITHUB STATUS</h3>
 
 <p align="center">
  <a href="https://github.com/salove16">
