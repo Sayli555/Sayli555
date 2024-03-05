@@ -85,7 +85,7 @@
 <a><img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="39" height="39" alt="Jira"/></a>
 <a><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="39" height="39" alt="Postman"/></a>
 <a><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="39" height="39" alt="VS-code"/></a>
-<a><img src="https://tse1.mm.bing.net/th?id=OIP.47wPNCE9FNYGVvpn7P3-OwHaHa&pid=Api&P=0&h=180" width="39" height="39" alt="Github"/></a>
+<a><img src="https://tse2.mm.bing.net/th?id=OIP.1KRa9cMmBQoMqyPBPz24hgHaHa&pid=Api&P=0&h=180" width="39" height="39" alt="Github"/></a>
 </p>
 
 <!--Github status -->
