@@ -1,6 +1,6 @@
-<h1 align="center" width="50px" height="50px">Hi <img align="center" alt="Codeing" width="40px" height="40px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Sayli</h1>
+[<h1 align="center" width="50px" height="50px">Hi <img align="center" alt="Codeing" width="40px" height="40px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Sayli</h1>
  
-<h3 align="center">An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.</h3>
+<h3 align="center">Experienced MERN Stack Developer with 2 years in full-stack development. Fueled by boundless curiosity and optimism, dedicated to continuous learning and pushing the boundaries of innovation</h3>
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayli555&label=Profile%20views&color=0e75b6&style=flat" alt="sayli555" /> </p> 
@@ -73,3 +73,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayli555&show_icons=true&locale=en&layout=compact" alt="sayli555" nbsp="100px" />
 </p>
 
+](http://readme.md/)http://readme.md/
