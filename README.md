@@ -6,23 +6,6 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=sayli555&label=Profile%20views&color=0e75b6&style=flat" alt="sayli555" /> </p> 
 
 
-<h1>About Me</h1>
-<img align="right" margin-top="50px" alt="Codeing" width="350" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"
-     nbsp="100px">
-
-
-- 🔭 I’m currently working on HTML, CSS, JavaScript, MongoDB and Express.js
-
-- 🌱 I’m currently learning *React Native*
-
-- 💬 Ask me about *MERN*
-
-- 📫 How to reach me *sayligiri555@gmail.com*
-
-- ⚡ Fun fact *I am Funny*
-
-
-
 
 
 <br>
