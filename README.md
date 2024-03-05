@@ -50,7 +50,7 @@
 <p align="center">
   <a href="mailto:sayligiri555@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/sayli-giri" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://sayli-portfolio.vercel.app target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+ <a href="https://sayli-portfolio.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://twitter.com/Sayli_Giri" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
  <a href="https://www.instagram.com/saylii555/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
