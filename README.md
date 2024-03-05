@@ -3,7 +3,7 @@
 <h3 align="center">Experienced MERN Stack Developer with 2 years in full-stack development. Fueled by boundless curiosity and optimism, dedicated to continuous learning and pushing the boundaries of innovation</h3>
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayli555&label=Profile%20views&color=0e75b6&style=flat" alt="sayli555" /> </p> 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=sayli555&label=Profile%20views&color=0e75b6&style=flat" alt="sayli555" /> </p> 
 
 
 <h1>About Me</h1>
@@ -26,6 +26,7 @@
 
 
 <br>
+<br>
 
 
 <!-- social links -->
@@ -39,10 +40,6 @@
  
 </p>
 
-
-
-
-  <br>
 <!-- technoly links -->
 <h3 align="center">LANGUAGES AND TOOLS I WORKED WITH 🔧</h3>
 <p align="center">
