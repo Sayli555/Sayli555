@@ -1,4 +1,4 @@
-[<h1 align="center" width="50px" height="50px">Hi <img align="center" alt="Codeing" width="40px" height="40px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Sayli</h1>
+<h1 align="center" width="50px" height="50px">Hi <img align="center" alt="Codeing" width="40px" height="40px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Sayli</h1>
  
 <h3 align="center">Experienced MERN Stack Developer with 2 years in full-stack development. Fueled by boundless curiosity and optimism, dedicated to continuous learning and pushing the boundaries of innovation</h3>
 
